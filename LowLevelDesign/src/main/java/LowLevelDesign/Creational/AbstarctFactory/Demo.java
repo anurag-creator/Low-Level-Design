@@ -3,7 +3,7 @@ package LowLevelDesign.Creational.AbstarctFactory;
 public class Demo {
     public static void main(String[] args) {
         // Change this to switch between platforms
-        String os = "MacOS"; // Options: "Windows", "MacOS"
+        String os = "Windows"; // Options: "Windows", "MacOS"
 
         UIFactory factory;
         if (os.equalsIgnoreCase("Windows")) {
