@@ -9,7 +9,6 @@ public class Main {
         Notification sms = NotificationFactory.getNotification("SMS");
         sms.notifyUser("Your package is out for delivery!");
 
-        // Create a Push Notification
         Notification push = NotificationFactory.getNotification("PUSH");
         push.notifyUser("You have a new message in your inbox!");
     }
