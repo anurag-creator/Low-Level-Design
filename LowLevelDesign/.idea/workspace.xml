@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f92accfd-43f3-463f-823d-71de473ea976" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Prototype/DocumentPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Prototype/ReportDocument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Builder/HRMPaySlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Builder/HRMPaySlip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Builder/Payslip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Builder/Payslip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Builder/PayslipBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Builder/PayslipBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Prototype/PrototypePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Creational/Prototype/PrototypePattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
