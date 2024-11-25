@@ -17,7 +17,7 @@ public class PaymentGateway {
 
     // Method to process a payment
     public void processPayment(PaymentRequest request) {
-        System.out.println("Processing payment:");
+        System.out.println("Processing payment...");
         System.out.println(request);
         System.out.println("Payment successfully processed!");
     }
