@@ -1,9 +1,9 @@
 package LowLevelDesign.Creational.Singleton;
 
 public class PaymentRequest {
-    private String payer;
-    private String payee;
-    private double amount;
+    private final String payer;
+    private final String payee;
+    private final double amount;
 
     public PaymentRequest(String payer, String payee, double amount) {
         this.payer = payer;
