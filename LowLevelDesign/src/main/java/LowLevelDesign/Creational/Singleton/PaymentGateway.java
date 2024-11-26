@@ -1,5 +1,5 @@
 package LowLevelDesign.Creational.Singleton;
-//making class singleton
+//making class singletonc
 public class PaymentGateway {
     private static PaymentGateway instance;
 
