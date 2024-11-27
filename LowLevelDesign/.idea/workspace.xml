@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92accfd-43f3-463f-823d-71de473ea976" name="Changes" comment="" />
+    <list default="true" id="f92accfd-43f3-463f-823d-71de473ea976" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Structural/Adapter/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Structural/Adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Structural/Adapter/VlcPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Structural/Adapter/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Structural/Adapter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LowLevelDesign/Structural/Adapter/SMS.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

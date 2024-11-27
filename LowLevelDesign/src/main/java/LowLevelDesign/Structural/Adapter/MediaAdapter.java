@@ -1,4 +1,4 @@
 package LowLevelDesign.Structural.Adapter;
 
-public class SMS {
+public class MediaAdapter {
 }
