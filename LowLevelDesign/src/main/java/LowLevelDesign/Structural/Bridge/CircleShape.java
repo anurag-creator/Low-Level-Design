@@ -1,6 +1,6 @@
 package LowLevelDesign.Structural.Bridge;
 
-public class CircleShape {
+public class CircleShape implements Shape {
     private Color color;
 
     public CircleShape(Color color) {
