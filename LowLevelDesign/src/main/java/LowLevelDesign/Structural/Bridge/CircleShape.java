@@ -10,6 +10,6 @@ public class CircleShape implements Shape {
     @Override
     public void draw() {
         color.applyColor();
-        System.out.println("Drawing Circle..");
+        System.out.println("Drawing Circle...");
     }
 }
