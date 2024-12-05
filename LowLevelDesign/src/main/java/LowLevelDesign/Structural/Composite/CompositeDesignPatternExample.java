@@ -10,7 +10,7 @@ public class CompositeDesignPatternExample {
         // Composite Department
         CompositeDepartment headOffice = new CompositeDepartment("Head Office");
 
-        // Add leaf departments to the composite
+        // Add leaf departments 
         headOffice.addDepartment(hr);
         headOffice.addDepartment(finance);
 
