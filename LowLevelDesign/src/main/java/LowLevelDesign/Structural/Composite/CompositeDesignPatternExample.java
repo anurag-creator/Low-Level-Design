@@ -22,7 +22,7 @@ public class CompositeDesignPatternExample {
         headOffice.addDepartment(regionalOffice);
 
         // Display details
-        System.out.println("Company Departments Details:");
+        System.out.println("Company Departments Details :");
         headOffice.showDepartmentDetails();
 
         // Get total employees
