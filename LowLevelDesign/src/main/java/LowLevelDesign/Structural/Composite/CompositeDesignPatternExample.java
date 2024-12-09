@@ -3,8 +3,8 @@ package LowLevelDesign.Structural.Composite;
 public class CompositeDesignPatternExample {
     public static void main(String[] args) {
         // Leaf Departments
-        Department hr = new SingleDepartment("HR", 15);
-        Department finance = new SingleDepartment("Finance", 10);
+        Department hr = new SingleDepartment("HR", 150);
+        Department finance = new SingleDepartment("Finance", 100);
         Department engineering = new SingleDepartment("Engineering", 50);
 
         // Composite Department
@@ -21,7 +21,7 @@ public class CompositeDesignPatternExample {
         // Add regional office to the head office
         headOffice.addDepartment(regionalOffice);
 
-        
+
         System.out.println("Company Departments Details :");
         headOffice.showDepartmentDetails();
 
