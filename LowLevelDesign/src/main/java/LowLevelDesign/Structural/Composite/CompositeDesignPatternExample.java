@@ -21,6 +21,8 @@ public class CompositeDesignPatternExample {
         // Add regional office to the head office
         headOffice.addDepartment(regionalOffice);
 
+        //headOffice.removeDepartment(regionalOffice);
+
 
         System.out.println("Company Departments Details :");
         headOffice.showDepartmentDetails();
